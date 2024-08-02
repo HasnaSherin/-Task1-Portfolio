@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    background-color:#081b20 ;
+    color:#ffffff;
+    
+background-repeat: no-repeat;
+background-size: cover;}
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 50px 25px;
+    background-color:transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    z-index: 100;
+}
+.logo{
+    font-size: 25px;
+    color: hsl(180, 18%, 92%);
+    font-weight: 500;
+}
+.navbar a{
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 500;
+    margin-left: 40px;
+    na
+}
+.navbar a:hover{
+    color: rgb(7, 17, 17);
+}
+
+h1{
+
+    
+    display: flex;
+    align-items: center;
+    padding :  100px 0 0 0  ;
+}
+#about{
+    p
+    color: rgb(176, 9, 112);
+text-align: center;
+background-color: aquamarine;
+padding: 200px 0 0 0;
+}
+#details{
+    
+    color: rgb(174, 9, 130);
+text-align: center;
+background-color: rgb(122, 209, 239);
+padding: 200px 0 0 0;
+}
+#contactme {
+    color: rgb(193, 13, 97);
+text-align: center;
+background-color: aqua;
+padding: 200px 0 0 0;
+}

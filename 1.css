@@ -1,0 +1,27 @@
+body{background-color: rgba(7, 179, 210, 0.5);
+}
+h1{ color: rgb(4, 150, 155);
+}
+h2{
+    color: chocolate;
+    font-size: xx-large;
+}
+.one{color: rgb(19, 43, 223);
+font-size: xx-large;}
+h3{ color: rgba(41, 240, 6, 0.749);
+}
+#two{color: blueviolet;}
+h4{ color: rgb(235, 138, 20);
+}
+p{ color: rgb(155, 42, 165);
+    font-size: large;
+}
+ol{ color: rgb(231, 55, 96);font-size: larger;
+
+}
+ul{ color: rgba(37, 14, 207, 0.84);
+font-size: medium;}
+.tt{
+    height: 300px;
+    width: 650px;
+}
